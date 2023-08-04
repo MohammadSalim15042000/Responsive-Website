@@ -385,7 +385,7 @@ font-style: initial;
 
 
 .container1{
-    background: linear-gradient(rgb(0, 0, 0, 0.1), rgb(0, 0, 0, 0.8)), url(./assets/asset\ 36.jpeg);
+    background: linear-gradient(rgb(0, 0, 0, 0.1), rgb(0, 0, 0, 0.8)), url(./assets/asset 36.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
@@ -397,7 +397,7 @@ box-shadow: 0 0 10px #888;
 
 
 .container:nth-child(2){
-    background: linear-gradient(rgb(0, 0, 0, 0.1), rgb(0, 0, 0, 0.8)), url(./assets/asset\ 37.jpeg);
+    background: linear-gradient(rgb(0, 0, 0, 0.1), rgb(0, 0, 0, 0.8)), url(./assets/asset/ 37.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
