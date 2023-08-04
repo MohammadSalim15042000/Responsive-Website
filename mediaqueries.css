@@ -459,6 +459,9 @@
         flex-wrap: wrap;
         width: 80%;
     }
+     .ul-1{
+        margin-top:-200px;
+    }
 }
 
 @media screen and (max-width:352px) {
@@ -472,6 +475,9 @@
 
     .grid-1 {
         margin-right: 0.6rem;
+    }
+    .ul-1{
+        margin-top:-200px;
     }
 
 }
